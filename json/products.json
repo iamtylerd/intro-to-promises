@@ -1,0 +1,42 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        "fairy_dust": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Dust",
+            "description": "Multi-colored Dust that are safe for any age."
+        },
+        "fairy_tears": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Tears",
+            "description": "Multi-colored Tears that are safe for any age."
+        }
+    },
+    {
+        "goblin_farts": {
+            "id": 1,
+            "type": 1,
+            "name": "Goblin Farts",
+            "description": "Multi-colored Farts that are safe for any age."
+        },
+        "goblin_burps": {
+            "id": 1,
+            "type": 1,
+            "name": "Goblin Burps",
+            "description": "Multi-colored Burps that are safe for any age."
+        },
+        "goblin_toenails": {
+            "id": 1,
+            "type": 1,
+            "name": "Goblin Toenails",
+            "description": "Multi-colored Toenails that are safe for any age."
+        }
+    }]
+}
